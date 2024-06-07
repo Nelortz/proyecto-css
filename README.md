@@ -2,6 +2,9 @@
 
 [EL robot varado en la luna](https://proyecto-css-z.netlify.app/)
 
+![Captura de pantalla](assets/img/img10.png
+)
+
 Este es el repositorio de la página web que trae la increíble historia de un robot, historia que nos sirvió de excusa para poner en prática algunas técnicas básicas de CSS basandonos en una web sencilla hecha con HTML.
 
 En esta página podrás encontrar:
